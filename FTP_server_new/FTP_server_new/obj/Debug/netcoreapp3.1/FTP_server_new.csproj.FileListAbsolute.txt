@@ -1,0 +1,14 @@
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\bin\Debug\netcoreapp3.1\FTP_server_new.exe
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\bin\Debug\netcoreapp3.1\FTP_server_new.deps.json
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\bin\Debug\netcoreapp3.1\FTP_server_new.runtimeconfig.json
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\bin\Debug\netcoreapp3.1\FTP_server_new.runtimeconfig.dev.json
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\bin\Debug\netcoreapp3.1\FTP_server_new.dll
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\bin\Debug\netcoreapp3.1\FTP_server_new.pdb
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\obj\Debug\netcoreapp3.1\FTP_server_new.csproj.AssemblyReference.cache
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\obj\Debug\netcoreapp3.1\FTP_server_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\obj\Debug\netcoreapp3.1\FTP_server_new.AssemblyInfoInputs.cache
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\obj\Debug\netcoreapp3.1\FTP_server_new.AssemblyInfo.cs
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\obj\Debug\netcoreapp3.1\FTP_server_new.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\obj\Debug\netcoreapp3.1\FTP_server_new.dll
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\obj\Debug\netcoreapp3.1\FTP_server_new.pdb
+C:\Users\Anonymous Guy\source\repos\FTP_server_new\FTP_server_new\obj\Debug\netcoreapp3.1\FTP_server_new.genruntimeconfig.cache
