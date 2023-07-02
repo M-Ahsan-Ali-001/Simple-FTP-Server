@@ -1,0 +1,11 @@
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe.config
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\bin\Debug\FTP_Client.pdb
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csproj.AssemblyReference.cache
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Form1.resources
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Properties.Resources.resources
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csproj.GenerateResource.cache
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\obj\Debug\FTP_Client.exe
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\obj\Debug\FTP_Client.pdb
+C:\Users\Anonymous Guy\source\repos\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Form2.resources
